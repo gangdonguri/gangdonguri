@@ -1,16 +1,20 @@
-### 안녕하세요. 👋
+### 👋 안녕하세요 
 
-새로운 지식을 탐구하고 기존의 것과 융합하고 DevOps Engineer 지망생입니다. 
+문제 해결을 위해 새로운 지식을 탐구하고 고민하기를 즐기는 DevOps Engineer 지망생입니다.  
 
-### Skils 🧸
+#### 관심사
+- 운동: `"건강한 신체에 건강한 정신이 깃든다 - 유베날리스"`
+- 사진찍기: `"내 원체 아름답고 무용한 것들을 좋아하오 - 미스터선샤인 김희성"`
+
+### 🧸 스킬 
 <p>
 <img src="https://img.shields.io/badge/Amazon Web Service-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/vagrant-1868F2?style=flat-square&logo=Vagrant&logoColor=white"/>
-<img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vagrant-1868F2?style=flat-square&logo=Vagrant&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/bash-4EAA25?style=flat-square&logo=GNU bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=GNU bash&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 </p>
 <p>
@@ -24,4 +28,3 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 </p>
   
-### inter
